@@ -2,8 +2,7 @@
 <CatapultToc
   Version="1">
   <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/NewFolder/Welcome.htm" />
+    Title="[%=System.LinkedTitle%]" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/Sample Topics/ChangeLogoInSkin.htm" />
