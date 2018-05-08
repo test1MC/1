@@ -19,6 +19,6 @@
       Link="/Content/Products/Product A/Test3.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Folder/Test2.htm" />
+      Link="/Content/a/Test2.htm" />
   </TocEntry>
 </CatapultToc>
